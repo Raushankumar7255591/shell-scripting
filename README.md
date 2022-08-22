@@ -1,2 +1,2 @@
-# shell-scripting
-My life is programming
+# Shell-scripting
+All about shell scripting
